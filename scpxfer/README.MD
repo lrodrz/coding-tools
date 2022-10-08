@@ -2,8 +2,6 @@
 
 #### C++ Version
 
-Currently this is the module that is working the best. 
-
 You'll need to compile it using
 
 `g++ inputfile.cpp -o outputbinary`
@@ -11,3 +9,10 @@ You'll need to compile it using
 and then make it executible using
 
 `chmod u+x file.extension`
+
+
+#### Python Version
+
+simple run it using 
+
+`python xfer.py`
