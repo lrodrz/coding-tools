@@ -13,6 +13,6 @@ and then make it executible using
 
 #### Python Version
 
-simple run it using 
+simply run it using 
 
 `python xfer.py`
